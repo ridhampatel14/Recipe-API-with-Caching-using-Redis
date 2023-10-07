@@ -53,7 +53,7 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone https://github.com/ridhampatel14/Recipe-API-with-Caching-using-Redis.git
-   cd redis-caching-for-recipe-api
+   cd Recipe-API-with-Caching-using-Redis
     ```
 2. Start the server:
     ```bash
