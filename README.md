@@ -56,9 +56,9 @@ To run this project locally, follow these steps:
    cd redis-caching-for-recipe-api
     ```
 2. Start the server:
-  ```bash
-  npm start
-  ```
+    ```bash
+    npm start
+    ```
 
 3. Access the API at http://localhost:3000
 
@@ -66,11 +66,11 @@ To run this project locally, follow these steps:
 ### Usage
 Redis Caching for Recipe API provides an efficient and secure platform for managing recipes and user interactions:
 
-Explore recipes through the /recipes route.
-View detailed recipe information using the /recipes/:id route.
-Create new recipes via the /recipes route after logging in.
-Update existing recipes through the /recipes/:id route (requires authentication).
-Post comments on recipes using the /recipes/:id/comments route (requires authentication).
-Delete comments on recipes via the /recipes/:recipeId/:commentId route (requires authentication).
-Like or unlike recipes with the /recipes/:id/likes route (requires authentication).
-Discover the top 10 most accessed recipes through the /mostaccessed route.
+Explore recipes through the /recipes route.  
+View detailed recipe information using the /recipes/:id route.  
+Create new recipes via the /recipes route after logging in.  
+Update existing recipes through the /recipes/:id route (requires authentication).  
+Post comments on recipes using the /recipes/:id/comments route (requires authentication).  
+Delete comments on recipes via the /recipes/:recipeId/:commentId route (requires authentication).  
+Like or unlike recipes with the /recipes/:id/likes route (requires authentication).  
+Discover the top 10 most accessed recipes through the /mostaccessed route.  
