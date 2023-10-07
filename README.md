@@ -1,6 +1,6 @@
 # Redis Caching for Recipe API
 
-Redis Caching for Recipe API is a project that demonstrates the implementation of Redis caching alongside asynchronous programming using async/await. This project builds upon the code from Lab 1 and introduces caching mechanisms to enhance the performance of the Recipe API.
+Redis Caching for Recipe API is a project that demonstrates the implementation of Redis caching alongside asynchronous programming using async/await. This project is developed with node.js, express.js and introduces caching mechanisms to enhance the performance of the Recipe API.
 
 ![Redis Caching](link_to_project_image)
 
